@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;maccess.Demo&apos; to &apos;DemoMain&apos;&#x0D;&#x0A;- Original project: &apos;Practice&apos;&#x0D;&#x0A;- Original element: &apos;maccess.Demo&apos;&#x0D;&#x0A;- Renamed element: &apos;maccess.DemoMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Demo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;maccess{Demo.java[Demo" matchStrategy="1" name="DemoMain" qualified="false" references="true" similarDeclarations="false" stamp="1665300641678" textual="true" version="1.0"/>
+</session>
